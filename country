@@ -1,0 +1,4 @@
+class country:
+    country-name = ""
+    def __init__(self, country-name):
+        self. country-name =  country-name
